@@ -10,7 +10,7 @@ Topics covered include:
 * Sequence-to-Sequence Models, Autoencoder, generative models
 * Reinforcement Learning
 
-### -
+
 ### Representation Learning
 
 1. Real-time personalization using embeddings for search ranking at airbnb. https://www.kdd.org/kdd2018/accepted-papers/view/real-time-personalization-using-embeddings-for-search-ranking-at-airbnb
